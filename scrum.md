@@ -151,4 +151,76 @@ Basically to increase the transparency between stakeholders and SCRUM team.
 3. Dev team shares sprint experience, highlight challenges.
   1. Dev team demos the completed items.
   2. Stake holders ask questions on the Demo.
-4. Product Owner opens the backlog and initiate discussion on what to do next.
+4. Product Owner opens the backlog and initiate discussion on what to do next.(budgets, timelines and capabilities are discussed)
+5. At the end of this event product owner should have an updated backlog.
+
+**Sprint Retrospective**
+
+**TIMEBOX – 3 Hrs or less**
+
+After sprint review event, we update the product backlog with the outcome of the last SPRINT this event is conducted.
+
+Stakeholders are not invited and only SCRUM team is invited.
+
+**Agenda**
+
+What all went well?
+
+1. Should be noted down and some kind of recognition has to be given
+
+What went wrong?
+
+1. Should be thought of as an area of improvement.
+
+Aim of using SCRUM framework is not just to deliver the product increments but also the growth of the team and the team members.
+
+By enhancing tools and the team members.
+
+At the end of this meeting, we should have list of area of improvements and the plan of working on them.
+
+**SCRUM Artifacts**
+
+SCRUM artifacts are simply the things created during the implementation of SCRUM.
+
+**Product backlog**
+
+1. Is the list of all the features to be added, enhancements to be made and bugs to be fixed. (Its always evolving)
+2. Changes are brought by stakeholders and business team.
+3. Based on this input addition or removal to the product backlog list.
+4. Product backlog refinement happens after new inputs and dev team and Product owner plans and adds them to the list
+5. Check if the reqd permissions are available to deliver the requirement.
+
+| Reqmt name | Reqmt Details | Estimated Business Value | Estimated effort | Ready?
+ |
+| --- | --- | --- | --- | --- |
+| ….. | ….. | …. | …. | … |
+
+Product owner fills the above tables for all the requirements.
+
+1. Name – By Business team
+2. Details – By product owner as per the discussions from business team, dev team and other experts.
+3. Estimated Business Value: Provided by Business team
+4. Estimated Effort: Product owner gathers from dev team, Then arranges these in backlog in order of priority
+5. Last check is to check if the product can be completed in one sprint time box, if yes then PO marks it as ready.
+6. Note: Business team can only give Business value estimate and Dev team can only give effort.
+7. SCRUM mater needs to ensure that the entire process of backlog refinement does not take more than 10% of the capacity of the development team.
+
+**Sprint backlog**
+
+1. List of items selected from the product backlog which will be completed in the current sprint constitute the sprint backlog.
+2. This list of items is selected in the sprint planning event and the status of these items is discussed in the sprint review event.
+3. Daily monitoring of Sprint backlog is done in the daily scrum.
+4. The development team needs to regularly update the sprint backlog as per the evolved plan from the updates of the daily scrum.
+5. Note: Sprint backlog is owned by the development team and all the progress can be viewed by the SCRUM team.
+6. As long as the goal is not changed, dev team can freely update the SPRINT backlog.
+7. But if anything can hinder achieving our goal, that needs to be intimated to the product owner and stake holders immediately.
+8. It is highly visible, Stakeholders and SCRUM team.
+
+**Increment**
+
+**Should have the following attributes**
+
+1. Should be usable. (Ready for production)
+2. It should be inspectable. (Complete solution that is tested and verified)
+3. It should include increments of the previous sprint.
+4. **Definition of Done: No single definition but should be like everyone agrees to the definition. As the org evolves, we can put stricter rules.**
