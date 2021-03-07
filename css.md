@@ -67,5 +67,4 @@ h. Height
 Box model is the core concept of CSS.
 Pseudo classes and elements are important.
 
-
-#
+#CSS classes
