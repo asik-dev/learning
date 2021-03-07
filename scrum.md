@@ -224,3 +224,23 @@ Product owner fills the above tables for all the requirements.
 2. It should be inspectable. (Complete solution that is tested and verified)
 3. It should include increments of the previous sprint.
 4. **Definition of Done: No single definition but should be like everyone agrees to the definition. As the org evolves, we can put stricter rules.**
+
+**Advantages and Disadvantages of SCRUM**
+
+**Advantage:**
+
+1. More transparency and project visibility
+2. Increased team accountability
+3. Easy to accommodate changes. (With short sprints and constant feedbacks)
+4. Lower expenses with increased quality
+5. Faster delivery
+6. Customers are heard.
+
+**Disadvantage:**
+
+Requires high level of experience and commitments from the team
+
+1. Risk of scope creep (Due to continuous change in the project scope due to the lack of specific end date tempting stakeholders to keep on requesting additional functionalities)
+2. Daily meetings sometime frustrate team members.
+3. Wrong scrum master can ruin everything.
+4. Poorly defined tasks can lead to inaccuracies.
